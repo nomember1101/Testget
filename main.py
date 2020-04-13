@@ -1,0 +1,2 @@
+sa='a'
+print(sa)
